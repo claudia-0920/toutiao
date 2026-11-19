@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+aiomysql
+pydantic
+pydantic-settings
